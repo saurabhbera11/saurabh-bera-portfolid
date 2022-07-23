@@ -42,7 +42,7 @@ function HomePage() {
             <GitHubIcon />
           </a>
           <a
-            href="https://www.linkedin.com/in/saurabh-bera-610ba0156/"
+            href="http://www.linkedin.com/in/sourabhbera11"
             className="icon i-linkdin"
           >
             <LinkedInIcon />

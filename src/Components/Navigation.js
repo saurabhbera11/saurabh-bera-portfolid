@@ -31,7 +31,7 @@ function Navigation() {
         </li>
       </ul>
       <footer className="footer">
-        <p>2021 Sourabh Bera Portfolio</p>
+        <p>2022 Sourabh Bera Portfolio</p>
       </footer>
     </NavigationStyled>
   );

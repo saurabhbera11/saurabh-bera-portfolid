@@ -3,7 +3,7 @@ import js1 from '../img/mealFinder.png';
 import react2 from '../img/Slack.png';
 import react3 from '../img/Netflix.png'
 import MachineLearning1 from '../img/FraudDetection.png';
-
+import Dermocare from '../img/Dermocare.png'
 const projects = [
     {
         id: 1,
@@ -49,6 +49,14 @@ const projects = [
         link2: 'https://docs.google.com/presentation/d/1rPOOZhJ87YSh_tRzbgF5hQvpl9JVggkok1VUNtcZb4A/edit#slide=id.p',
         title: 'AI-Syberthon Fraud Detection',
         text: 'A ML model for Detecting of Fraud'
+    },
+    {
+        id: 6,
+        category: 'Deep Learning',
+        image: Dermocare,
+        link2: 'https://dermocareai.onrender.com/',
+        title: 'DermoCare.AI',
+        text: 'A website to detect skin diseases in which deep learning models are integrated'
     },
     
 ]

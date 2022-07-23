@@ -1,7 +1,7 @@
 import React from 'react'
 import styled from 'styled-components'
 import profile from '../img/profile.jpg'
-import PrimeButton from './PrimeButton'
+// import PrimeButton from './PrimeButton'
 
 
 function ImageSection() {
@@ -33,7 +33,7 @@ function ImageSection() {
                         <p>: Mumbai,Maharshtra</p>  
                     </div>
                 </div>
-                <PrimeButton title={"Download Resume"}/>
+                {/* <PrimeButton title={"Download Resume"} /> */}
             </div>
         </ImageSectionStyled>
     )
