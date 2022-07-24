@@ -24,14 +24,14 @@ function HomePage() {
           onInit={(typewriter) => {
             typewriter
               .typeString(
-                "<span class='H1 role'>I am a <span class='role'>Student</span></span>"
+                "<span class='H1 role'>I am a <span class='role'>Web Developer</span></span>"
               )
               .pauseFor(1000)
               .deleteChars(7)
-              .typeString("<span class='role'>Web Developer</span>")
+              .typeString("<span class='role'>Competitive Programmer</span>")
               .pauseFor(1000)
               .deleteChars(13)
-              .typeString("<span class='role'>Competitive Programmer</span>")
+              .typeString("<span class='role'>Student</span>")
               .pauseFor(1000)
               .deleteAll()
               .start();

@@ -7,12 +7,11 @@ import Dermocare from '../img/Dermocare.png'
 const projects = [
     {
         id: 1,
-        category: 'JS',
-        image: js1,
-        link1: 'https://github.com/saurabhbera11/MealFinder',
-        link2: 'https://mealfinder-fooddb.netlify.app/',
-        title: 'Meal Finder',
-        text: 'Created with HTML and CSS and Javascript.'
+        category: 'Deep Learning',
+        image: Dermocare,
+        link2: 'https://dermocareai.onrender.com/',
+        title: 'DermoCare.AI',
+        text: 'A website to detect skin diseases in which deep learning models are integrated'
     },
     {
         id: 2,
@@ -52,11 +51,12 @@ const projects = [
     },
     {
         id: 6,
-        category: 'Deep Learning',
-        image: Dermocare,
-        link2: 'https://dermocareai.onrender.com/',
-        title: 'DermoCare.AI',
-        text: 'A website to detect skin diseases in which deep learning models are integrated'
+        category: 'JS',
+        image: js1,
+        link1: 'https://github.com/saurabhbera11/MealFinder',
+        link2: 'https://mealfinder-fooddb.netlify.app/',
+        title: 'Meal Finder',
+        text: 'Created with HTML and CSS and Javascript.'
     },
     
 ]
